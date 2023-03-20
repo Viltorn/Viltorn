@@ -19,10 +19,12 @@ Developed several commerical websites on Tilda website builder using CSS and Scr
 
 ### My Hexlet projects
 
-[Chat Slack](https://github.com/Viltorn/frontend-project-12) - Live messenger made as simplified version of Slack Chat.
+[Chat Slack](https://github.com/Viltorn/frontend-project-12) - Live messenger made as simplified version of Slack Chat. You need to Login/Signup first and then you can send messages and also add, rename or delete new channels.
 
 [RSS-aggregator](https://github.com/Viltorn/frontend-project-11) - This is web version of RSS Reader. Add your favorite RSS links: you will see a list of available posts. App also makes automated updates for new posts.
 
-Gendiff - A console utility designed to calculate and display the difference between two data structures. The utility can display the difference in 2 formats.
+[Music box](https://github.com/Viltorn/layout-designer-project-lvl2) - This is a layout of adaptive website, made using SCSS
 
-Brain games - A console game in the format: question - answer.
+[Gendiff](https://github.com/Viltorn/frontend-project-lvl2) - A console utility designed to calculate and display the difference between two data structures. The utility can display the difference in 2 formats.
+
+[Brain games](https://github.com/Viltorn/frontend-project-lvl1) - A console game in the format: question - answer.

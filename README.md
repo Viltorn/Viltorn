@@ -7,5 +7,5 @@ Hexlet frontent-development course (https://ru.hexlet.io/).
 Developed several commerical websites on Tilda website builder using CSS and Scripts
 
 ### Languages and Tools
-![JS](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg =100x100)
+<img src="https://your-image-url.type](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="100" height="100">
 

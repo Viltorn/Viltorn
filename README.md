@@ -17,7 +17,7 @@ Developed several commerical websites on Tilda website builder using CSS and Scr
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50">
 </p>
 
-### My Hexlet projects
+### My projects
 
 [Chat Slack](https://github.com/Viltorn/frontend-project-12) - Live messenger made as simplified version of Slack Chat. You need to Login/Signup first and then you can send messages and also add, rename or delete new channels.
 

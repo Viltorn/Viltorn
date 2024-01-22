@@ -1,10 +1,11 @@
-### Hi! I'm junior frontend-developer. 👋
+### Hi! I'm frontend-developer. 👋
 
 ### Education
 Hexlet frontent-development course (https://ru.hexlet.io/). 
 
 ### Experience 
-Developed several commerical websites on Tilda website builder using CSS and Scripts
+Developed several commerical websites on Tilda website builder using CSS and Scripts.
+Made application for card board game that is used by real users.
 
 ### Languages and Tools
 
@@ -14,12 +15,18 @@ Developed several commerical websites on Tilda website builder using CSS and Scr
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50">
 </p>
 
 ### My projects
 
-[Chat Slack](https://github.com/Viltorn/frontend-project-12) - Live messenger made as simplified version of Slack Chat. You need to Login/Signup first and then you can send messages and also add, rename or delete new channels.
+[Duel of Warlords](https://github.com/Viltorn/DuelofWarlords) - Trading card game based on the Duels of Champions computer game (MMDoC). You can play with yourself, online with friends and you even can assemble your own deck for playing!
+
+[GreenApi Chat](https://github.com/Viltorn/GreenApi-Chat) - App made for small businesses and allows you to messaging via whatsApp api from any device without revealing contacts phone numbers.
+
+[WeatherApp](https://github.com/Viltorn/WeatherApp) - Simple but useful app for live weather and weather forecast in any place in the world.
 
 [RSS-aggregator](https://github.com/Viltorn/frontend-project-11) - This is web version of RSS Reader. Add your favorite RSS links: you will see a list of available posts. App also makes automated updates for new posts.
 

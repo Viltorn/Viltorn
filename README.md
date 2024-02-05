@@ -1,11 +1,12 @@
-### Hi! I'm frontend-developer. 👋
+### Hi! I'm frontend-developer. 👋 
+You can contac me: viltorn@gmail.com
 
 ### Education
-Hexlet frontent-development course (https://ru.hexlet.io/). 
+Hexlet frontent-development course (https://ru.hexlet.io/).
 
 ### Experience 
 Developed several commerical websites on Tilda website builder using CSS and Scripts.
-Made application for card board game that is used by real users.
+Made application for collectible card game that is used by real users.
 
 ### Languages and Tools
 

@@ -1,5 +1,5 @@
 ### Hi! I'm frontend-developer. 👋 
-You can contac me: viltorn@gmail.com
+You can contact me: viltorn@gmail.com
 
 ### Education
 Hexlet frontent-development course (https://ru.hexlet.io/).

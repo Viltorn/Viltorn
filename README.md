@@ -16,7 +16,7 @@ Made application for collectible card game that is used by real users.
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50">
 

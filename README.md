@@ -23,7 +23,7 @@ Made application for collectible card game that is used by real users.
 
 ### LeetCode
 
-https://badges.peiyuan.ch/leetcode/Viltorn/solved?difficulty=easy
+[Solved Problems](https://badges.peiyuan.ch/leetcode/Viltorn/solved?difficulty=easy)
 
 ### My projects
 
